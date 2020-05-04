@@ -4,17 +4,8 @@
 <br>(720) 453-3709
 
 ```markdown
-Syntax highlighted code block
+#### **EXPERIENCE     EDUCATION     SKILLS**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
