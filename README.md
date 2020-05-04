@@ -3,13 +3,11 @@
 <br>5492 County Road 32; Mead, CO 80504
 <br>(720) 453-3709
 
-```markdown
-#### **EXPERIENCE     EDUCATION     SKILLS**
+#### `**EXPERIENCE`     `EDUCATION`     `SKILLS**`
 
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
