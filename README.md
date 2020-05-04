@@ -3,7 +3,7 @@
 <br>5492 County Road 32; Mead, CO 80504
 <br>(720) 453-3709
 
-#### `**EXPERIENCE`     `EDUCATION`     `SKILLS**`
+#### **`EXPERIENCE`**     <emsp>    **`EDUCATION`**   <emsp>      **`SKILLS`**
 
 
 **Bold** and _Italic_ and `Code` text
