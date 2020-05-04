@@ -1,4 +1,4 @@
-![J. Alfonso Maldonado](C:\Users\josea\OneDrive\Pictures\2020-04\IMG_0005)
+![J. Alfonso Maldonado](https://photos.google.com/photo/AF1QipOZYCPMt8h45vU0ioCBK_vikGKT1swl34xR-Z0c)
 ## J. Alfonso Maldonado
 <br>JoseAlfonsoMaldonado@gmail.com
 <br>5492 County Road 32; Mead, CO 80504
