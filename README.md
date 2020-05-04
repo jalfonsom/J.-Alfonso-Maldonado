@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+![J. Alfonso Maldonado](C:\Users\josea\OneDrive\Pictures\2020-04\IMG_0005)
+## J. Alfonso Maldonado
+<br>JoseAlfonsoMaldonado@gmail.com
+<br>5492 County Road 32; Mead, CO 80504
+<br>(720) 453-3709
 
 You can use the [editor on GitHub](https://github.com/jalfonsom/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
