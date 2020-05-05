@@ -1,2 +1,2 @@
-[HomePage](html/homepage.html)
+(html/homepage.html)
 this is my site index
