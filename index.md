@@ -1,2 +1,2 @@
-(html/homepage.html)
+(pages/homepage.md)
 this is my site index
